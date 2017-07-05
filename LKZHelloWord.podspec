@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LKZHelloWord"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "My first testing public pod"
 
   # This description is used to generate tags and improve search results.
